@@ -4,7 +4,7 @@
     <img alt="Go Stack" title="Go Stack" src="https://ik.imagekit.io/fabiopicolijr/go-stack_dCsK74Wtc.jpg" />
   </a>
 </p>
-<p align="center">Solving the <b>Rocketseat bootcamp</b> Node.js challenge :rocket:</p>
+<p align="center">Solving the <b>Rocketseat bootcamp</b> Node.js fundamentals challenge :rocket:</p>
 
 <p align="center">
   <img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/fabiopicolijr/desafio-conceitos-node?color=282A36" />
@@ -21,11 +21,11 @@
 ## :running: Steps
 ```bash
   # Install dependencies
-  yarn install 
-  
-  # Run test suits 
-  yarn test 
-  
+  yarn install
+
+  # Run test suits
+  yarn test
+
   # Start application
   yarn dev
 ```
